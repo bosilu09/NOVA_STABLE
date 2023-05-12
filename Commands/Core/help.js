@@ -236,7 +236,7 @@ Here's the list of my Commands.\n
         m.from,
         {
           image:{url:"https://graph.org/file/27054bdb82718a29de80c.png"},
-          caption: "${textHelpMenu}" ,
+          caption: "${textHelpMenu}" 
         },
         { quoted: m }
       );
