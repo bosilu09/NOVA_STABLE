@@ -1,7 +1,7 @@
 {
     
-    "name": "NOVA-MD",
-    "description": "A Whatsapp Bot Developed by Team NOVA",
+    "name": "Atlas-MD",
+    "description": "The Future of WhatsApp bots.",
     "keywords": [
         "bot",
         "whatsapp",
@@ -16,7 +16,7 @@
         "md-bot"
     ],
     "website": "https://github.com/FantoX001/Atlas-MD#readme",
-    "repository": "https://github.com/bosilu09/NOVA_Bot_test.git",
+    "repository": "https://github.com/FantoX001/Atlas-MD.git",
     "logo": "https://i.imgur.com/MClOeqe.jpeg",
     "success_url": "/",
     "env": {
