@@ -232,7 +232,7 @@ Here's the list of my Commands.\n
 
 🧩 To report any issues to Developer type " *${prefix}report <describe issue>* ".\n`;
 
-      await Miku.sendMessage(m.from, image:{url:"https://graph.org/file/27054bdb82718a29de80c.png"},caption :textHelpMenu, { quoted: m });
+      await Miku.sendMessage(m.from, image:{url:"https://graph.org/file/27054bdb82718a29de80c.png"}, caption:textHelpMenu , { quoted: m });
     }
   },
 };
