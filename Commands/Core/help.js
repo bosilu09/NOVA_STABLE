@@ -19,7 +19,7 @@ const Botversion = require("./hello.js")
       if (!cmd || cmd.type == "hide") return m.reply("No Command Found");
       else
         data.push(
-          `🍁Command : ${cmd.name.replace(/^\w/, (c) => c.toUpperCase())}`
+          `🥷 Command : ${cmd.name.replace(/^\w/, (c) => c.toUpperCase())}`
         );
       if (cmd.alias) data.push(`👾Alias : ${cmd.alias.join(", ")}`);
       if (cmd.cool) data.push(`⏱️Cooldown: ${cmd.cool}`);
@@ -57,7 +57,7 @@ const Botversion = require("./hello.js")
 
       let textHelpMenu = `Hi *${pushName}* ,
 
-I am *Inovatech*, a bot developed by *𝐓𝐞𝐚𝐦 𝐍𝐎𝐕𝐀*.
+I am *NOVA BOT*, a bot developed by *𝐓𝐞𝐚𝐦 𝐍𝐎𝐕𝐀*.
 
 Version :- _1.3.5 Stable_
 
