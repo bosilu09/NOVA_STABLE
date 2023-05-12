@@ -14,7 +14,7 @@ module.exports = {
       if (!args[0])
         return Miku.sendMessage(
           m.from,
-          { text: `Please provide a song name to play !` },
+          { text: `Please provide a song name to play !\n\nExample :\n.song Night changes by one direction` },
           { quoted: m }
         );
       const songSerachTerm = args.join(" ");
@@ -22,19 +22,19 @@ module.exports = {
       const song = songInfo.videos[0];
       let videoUrl = song.url;
       let videoId = videoUrl.split("v=")[1];
-
+Miku.sendMessage(m.from,{text:"${song.duration}"})
       await Miku.sendMessage(
         m.from,
         {
           image: { url: song.thumbnail },
-          caption: `\n*Song name :* _${song.title}_
+          caption: `\n*ꜱᴏɴɢ ɴᴀᴍᴇ :* _${song.title}_
 
-*Duration :* _${song.timestamp}_
+*ᴅᴜʀᴀᴛɪᴏɴ :* _${song.timestamp}_
 
-*Url :* _${song.url}_
+*ᴜʀʟ :* _${song.url}_
 
 
-_*Downloading Song...*_\n\n`,
+_*🥷 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...*_\n\n`,
         },
         { quoted: m }
       );
