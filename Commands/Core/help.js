@@ -235,7 +235,7 @@ Here's the list of my Commands.\n
       await Miku.sendMessage(
         m.from,
         {
-          image:{url:"https://graph.org/file/27054bdb82718a29de80c.png"}
+          image:{url:"https://graph.org/file/27054bdb82718a29de80c.png"},
           caption: "${textHelpMenu}" ,
         },
         { quoted: m }
