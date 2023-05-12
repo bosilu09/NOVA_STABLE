@@ -1,12 +1,12 @@
 const { mk } = require("../../Database/dataschema.js");
 
 module.exports = {
-  name: "cmd",
-  alias: ["bot", "botswitch"],
+  name: "bot",
+  alias: ["cmd", "botswitch"],
   desc: "Enable or disable bot in a group",
   category: "Group",
   usage: "cmd [on/off]",
-  react: "🎀",
+  react: "🎛",
   start: async (
     Miku,
     m,
@@ -21,6 +21,7 @@ module.exports = {
       participants,
     }
   ) => {
+    if(!args[0]){m.reply("-----🥷 NOVA BOT MODE 🥷-----\n\n.bot on - To turn on Bot\n.bot off - To turn off Bot")}
     if (!isAdmin)
       return Miku.sendMessage(
         m.from,

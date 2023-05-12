@@ -21,7 +21,7 @@ module.exports = {
       let xyz = xy.concat(yz);
 
       ment = [ownerList.map((owner) => owner + "@s.whatsapp.net"), mention];
-      let textM = `    🧙‍♂️  *${botName} 𝙼𝙾𝙳𝚂*  🧙‍♂️\n\n`;
+      let textM = `    🥷  *${botName} 𝙼𝙾𝙳𝚂*  🥷\n\n`;
 
       if (ownerList.length == 0) {
         textM = "*No Mods Added !*";
@@ -33,7 +33,7 @@ module.exports = {
 
       if (modlistString != "") {
         for (var i = 0; i < modlist.length; i++) {
-          textM += `\n🎀 @${modlist[i].id.split("@")[0]}\n`;
+          textM += `\n🥷 @${modlist[i].id.split("@")[0]}\n`;
         }
       }
 
@@ -43,8 +43,7 @@ module.exports = {
 
       return Miku.sendMessage(
         m.from,
-        { video: { url: botVideo },
-        gifPlayback: true,
+        { image : {url:"https://graph.org/file/27054bdb82718a29de80c.png"},
         caption: textM, 
         mentions: xyz },
         { quoted: m }

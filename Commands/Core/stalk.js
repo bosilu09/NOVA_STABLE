@@ -1,6 +1,6 @@
 module.exports = {
   name: "stalk",
-  alias: ["nowa", "stalkwhatsapp", "stalknumber"],
+  alias: ["stalkwhatsapp", "stalknumber"],
   desc: "Search for a whatsapp number in a given range",
   usage: "stalk 9181011564xxx",
   react: "👁️‍🗨️",
@@ -70,6 +70,6 @@ module.exports = {
         nowhatsapp += `${number0}${i}${number1}\n`
         }
         }
-        await Miku.sendMessage(m.from, { text: `${nomerny} ${nobio} ${nowhatsapp}` }, { quoted: m });
+        await Miku.sendMessage(m.from, { text: `${nomerny} ${nobio} ${nowhatsapp}\n\nɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɴᴏᴠᴀ ʙᴏᴛ` }, { quoted: m });
   },
 };

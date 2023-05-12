@@ -17,7 +17,7 @@ module.exports = {
     } else if (!text && m.quoted) {
       message = `${m.quoted ? m.quoted.msg : ""}`;
     } else if (args[0]) {
-      message = `       『 *Attention Admins* 』\n\n_🎀 Message:_ *${args.join(
+      message = `       『 *Attention Admins* 』\n\n_🥷 Message:_ *${args.join(
         " "
       )}*`;
     } else if (text === "") {

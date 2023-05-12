@@ -1,7 +1,7 @@
 const { mk } = require("../../Database/dataschema.js");
 
 module.exports = {
-  name: "chatbotgc",
+  name: "chatbot",
   alias: ["autochat", "autoreply", "chatbotgroup"],
   desc: "Enable or disable the autoreply feature in a group",
   category: "Group",
@@ -12,6 +12,8 @@ module.exports = {
     m,
     { args, isBotAdmin, isAdmin, isCreator, reply, prefix, pushName }
   ) => {
+    
+    if(!args[0]){m.reply("-----🥷 NOVA CHAT BOT MODE 🥷-----\n\n.chatbot on - To turn on Bot\n.chatbot off - To turn off Bot")}
     if (!isAdmin)
       return Miku.sendMessage(
         m.from,

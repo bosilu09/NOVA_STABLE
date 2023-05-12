@@ -20,6 +20,8 @@ module.exports = {
       quoted,
     }
   ) => {
+    
+    if(!args[0]){m.reply("-----🥷 GROUP MODE 🥷-----\n\n.group open - To open the chat\n.group close - To turn close the chat")}
     if (!isAdmin && !isBotAdmin)
       return Miku.sendMessage(
         m.from,
@@ -30,11 +32,11 @@ module.exports = {
       );
     if (args[0] === "close") {
       await Miku.groupSettingUpdate(m.from, "announcement").then((res) =>
-        m.reply(`Group has been closed!`)
+        m.reply(`ɢʀᴏᴜᴘ ʜᴀꜱ ʙᴇᴇɴ ᴄʟᴏꜱᴇᴅ`)
       );
     } else if (args[0] === "open") {
       await Miku.groupSettingUpdate(m.from, "not_announcement").then((res) =>
-        m.reply(`Group has been opened!`)
+        m.reply(`ɢʀᴏᴜᴘ ʜᴀꜱ ʙᴇᴇɴ ᴏᴘᴇɴᴇᴅ `)
       );
     } else {
       let buttons = [

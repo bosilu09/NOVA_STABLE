@@ -1,8 +1,8 @@
 const { mk } = require("../../Database/dataschema.js");
 
 module.exports = {
-    name: "antilinkgc",
-    alias: ["alinkgc","antilink"],
+    name: "antilink",
+    alias: ["alinkgc","antilinkgc"],
     desc: "Enable or disable the antilink feature in a group",
     category: "Group",
     usage: "antilinkgc [on/off]",
