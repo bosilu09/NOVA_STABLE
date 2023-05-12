@@ -17,10 +17,8 @@ module.exports = {
     await Miku.sendMessage(
       m.from,
       {
-        video: {
-          url: "https://graph.org/file/d23aedb5855108d13b0e8.mp4", 
-        }, gifPlayback : true,
-        caption: `\n *${pushName}*, I am *Inovatech* bot. Powered and Coded by _𝐓𝐄𝐀𝐌 𝐍𝐎𝐕𝐀_. Type *${prefix}menu* to get my full command list.\n\n_🧩 Server Uptime:_ *${uptime}*\n✨_Status:_ *Operational*\n\n` ,
+        image:{url:"https://graph.org/file/27054bdb82718a29de80c.png"}
+        caption: `\n *${pushName}*, I am *NOVA BOT 🥷*. Powered and Coded by _𝐓𝐄𝐀𝐌 𝐍𝐎𝐕𝐀_. Type *${prefix}menu* to get my full command list.\n\n_🧩 Server Uptime:_ *${uptime}*\n✨_Status:_ *Operational*\n\n` ,
       },
       { quoted: m }
     );
