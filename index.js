@@ -48,11 +48,11 @@ const {
     jidDecode,
     proto
 } = require("@adiwajshing/baileys");
-console.log("Connecting Tools 🐱‍👤")
+console.log("Connecting Tools 🥷")
 const fs = require("fs");
-console.log("FS connected 🐱‍👤")
+console.log("FS connected 🥷")
 const chalk = require("chalk");
-console.log("Chalk connected 🐱‍👤")
+console.log("Chalk connected 🥷")
 const path = require("path");
 const figlet = require('figlet');
 const FileType = require('file-type');
@@ -126,7 +126,7 @@ const readCommands = () => {
     }
 }
 
-console.log("All tools connected 🐱‍👤")
+console.log("All tools connected 🥷")
 readCommands()
 const PORT = port;
 const app = express();
@@ -188,7 +188,7 @@ async function startMiku() {
         } = update
         status = connection;
         if (connection) {
-            await console.info(`NOVA MD Server Status => ${connection}`);
+            await console.info(`🥷 NOVA MD Server Status => ${connection}`);
           }
 
         if (connection === 'close') {

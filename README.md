@@ -1,52 +1,52 @@
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+<a href="https://github.com/bosilu09/NOVA_STABLE.git">
+    <img src="https://graph.org/file/27054bdb82718a29de80c.png">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> NOVA MD Whatsapp Bot
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+I am "NOVA BOT" an Opensource WhatsApp bot made by <a href="https://github.com/bosilu09">Bosilu Niduwara</a> and his team "Team NOVA" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> NOVA MD - The Future Is Here
 </h4>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/bosilu09/NOVA_STABLE.git/fork">
+    <img src="https://img.shields.io/github/forks/bosilu09/NOVA_STABLE?label=Fork&style=social">
     
-    
-  <a href="https://github.com/FantoX001/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Atlas-MD?style=social">
+<center>
+  <a href="https://github.com/bosilu09/NOVA_STABLE/stargazers">
+    <img src="https://img.shields.io/github/stars/bosilu09/NOVA_STABLE?style=social">
   </a>
-
+</center>
 <br>
 
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Atlas-MD.visitor-badge&left_text=Total%20People%20Visited">
+<a href="https://github.com/bosilu09/NOVA_STABLE">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/bosilu09/NOVA_STABLE.visitor-badge&left_text=Total%20People%20Visited">
   </a>
   <br><br>
   
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
-
- <a href="https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md">
+<a href="https://github.com/bosilu09"><img title="Owner" src="https://img.shields.io/badge/Owner-Team NOVA-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<center>
+ <a href="https://github.com/bosilu09/NOVA_STABLE/blob/main/LICENSE.md">
   
-<img src='https://img.shields.io/github/license/FantoX001/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
-
+<img src='https://img.shields.io/github/license/bosilu09/NOVA_STABLE?color=%231e81b0&style=for-the-badge' width="114px">
+</center>
 <p align="center">
-<a href="https://github.com/FantoX001"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
-<a href="https://github.com/FantoX001"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
+<a href="https://github.com/bosilu09"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
+<a href="https://github.com/bosilu09"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
 </p>
 <br>
 
 ---
  <br>
  
- # 🧩 Deploy Atlas
+ # 🧩 Deploy NOVA
      
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -57,7 +57,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX001/Atlas-MD">
+    <a href="https://repl.it/github/bosilu09/NOVA_STABLE">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -77,7 +77,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
   
 <p align="center">
-    <a href="https://railway.app/new/template/Gts2Zx?referralCode=f3gg2m">
+    <a href="https://railway.app/template/FeCiRK?referralCode=UMLS1b">
     <img src="https://railway.app/button.svg" alt="Deploy on Railway" width="170px">
     </a>
     <br>
@@ -97,7 +97,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/fantox001/atlas-md:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/bosilu09/NOVA_STABLE:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://bosilu09:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=NOVA">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
@@ -121,7 +121,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX001/Atlas-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/bosilu09/NOVA_STABLE">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -199,16 +199,16 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 
     
     
-# 📑 Atlas Deploy and Hosting guide
+# 📑 NOVA Deploy and Hosting guide
 
 <details close>
 <summary>Click to read Deploy Manual</summary>    
     
 ## 🔶 Repl.it Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/bosilu09/NOVA_STABLE/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
+- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and change the repo link of Repl.it deply button from `https://github.com/Fantox01/NOVA-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your NOVA fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
   
 <br>
@@ -237,9 +237,9 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 ## ⚛️ Heroku Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/bosilu09/NOVA_STABLE/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
+- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/NOVA-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your NOVA fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
   
 <br>
@@ -266,7 +266,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
     
       
 ## 🔷 Railway Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/bosilu09/NOVA_STABLE/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version in Railway then that button will not help you. Go to Railway website and deploy github repo from there manually.
 - Those who are deploying through button: Put all necessary details there according to instructions given there.
@@ -295,7 +295,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
       
 ## ❇️ Koyeb Deploy:   
-- [Fork Main Repo](https://github.com/FantoX001/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/bosilu09/NOVA_STABLE/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Railway` button ( `For those who didn't modified bot.`). If you modified bot and want to deploy your modified version `I'm sorry to say as Koyeb works through Quay.io hosted docker so you can't deploy your modified version in fully 100% working state.` Though you can deploy manually your Github repo in Koyeb but in that case bot's 100% commands will not work.
 - Those who are deploying through button: Put all necessary details there according to instructions given there (Don't forget to change MongoDB URL an put your URL).
@@ -323,8 +323,7 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
   
 ## 🪟 CMD / VS Code / Powershell / Terminal Deployment Method 
-
-- [Download Updated code](https://github.com/FantoX001/Atlas-MD/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
+https://github.com/bosilu09/NOVA_STABLE/archive/refs/heads/main.zip) from Main GitHub Repo or Download from your Forked Repo.
 - Extract the `.zip` and open Vs code / Cmd / Powershell / Terminal in that directory and give thesse following commands one-by-one:
 - Rename `.env.example` to `.env` and fill in the required details in `.env` file and `config.js` (Mandatory).
 
@@ -372,10 +371,10 @@ sudo apt install wget
 sudo apt install npm
 sudo apt install imagemagick
 
-git clone https://github.com/FantoX001/Atlas-MD
+git clone https://github.com/bosilu09/NOVA_STABLE
 
 ls
-cd Atlas-MD
+cd NOVA-MD
 npm i
 
 
@@ -390,24 +389,24 @@ curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
 yarn add sharp
-cd Atlas-MD
+cd NOVA-MD
 npm i
 npm start
 
 ``` 
-- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/FantoX001/Atlas-MD/fork) this repo and modified `.env` file and `config.js`).
+- Note in `git clone <my bot's repo>` section your can use Your customised bot's github link too (For that make sure you [Forked](https://github.com/bosilu09/NOVA-MD/fork) this repo and modified `.env` file and `config.js`).
 - This method will work on most other bots too.
 
 #### 📌 To stop a bot in Userland
 - Tap on `CTRL` button then tap on `C` from keyboard
 
-#### 📌 To start bot again ( While you are inside Atlas-MD folder {use `cd Atlas-MD` to get inside the folder} )
+#### 📌 To start bot again ( While you are inside NOVA-MD folder {use `cd NOVA-MD` to get inside the folder} )
 - `npm start` or use `yarn start` to start bot again.
 
 
 #### 📌 Start bot after UserLand session is cleared
 ```
-cd Atlas-MD
+cd NOVA-MD
 npm start
 ```
 #### 📌 What to do if you logged out from the WhatsApp linked device section and want to get new qr to login
@@ -415,7 +414,7 @@ npm start
 - Then open `UserLand` and run these commands one-by-one:
 
 ```
-cd Atlas-MD
+cd NOVA-MD
 git fetch origin
 git merge origin/main
 npm start
@@ -436,7 +435,7 @@ npm start
 </h4>
 
 <p align="center" >
-<a href="https://cutt.ly/AtlasSupportStrict"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
+<a href="https://chat.whatsapp.com/IqxD9FdxBxl12nAG4wzcWS"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
     
@@ -444,21 +443,21 @@ npm start
 <br>
     
 
-# ⚡️ Atlas Platform Compatibility:
+# ⚡️ NOVA Platform Compatibility:
 <br>
 
-- Atlas offers highest platform compatibility.
+- NOVA offers highest platform compatibility.
 - Just deploy and use on your favourite platform.
 - Sorted by Recommendation: Repl.it, Railway, Heroku, Koyeb
       
 <br>
       
-# 💫 Dependencies of Atlas:
+# 💫 Dependencies of NOVA:
 
 <br>
 
 - [Baileys Library](https://github.com/adiwajshing/Baileys)
-- [Scrappy API (For Instagram, Lyrics and ❌videos scraping )](https://github.com/FantoX001/Scrappy-API)
+- [Scrappy API (For Instagram, Lyrics and ❌videos scraping )](https://github.com/bosilu09/Scrappy-API)
 - [FantoX APIs ( For NSFW )](https://fantox-api.vercel.app/)
 
 <br>
@@ -472,8 +471,8 @@ npm start
       
 <br>
 
-- Read [PublicKeys.md](https://github.com/FantoX001/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
-- Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
+- Read [PublicKeys.md](https://github.com/bosilu09/NOVA-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- Changeable between `20 added Characters` ( NOVA, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
 - Single prefix ( "-" ).
@@ -489,7 +488,7 @@ npm start
 <br>
 
 
-# 〽️ Why Should You Use Atlas as your Base:
+# 〽️ Why Should You Use NOVA as your Base:
 
       
 <details close>
@@ -497,18 +496,18 @@ npm start
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX001/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- NOVA is a `fully open source` bot which means `no copyright`.
+- NOVA is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
+- NOVA is a `multi database bot` which means you can use 3 different databases at the same time.
+- NOVA is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
+- NOVA has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
+- NOVA has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
+- NOVA has 300+ commands.
+- NOVA doesn't store your `Session File` locally which means it's `safe` and `secure`.
+- NOVA has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
+- NOVA has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
+- NOVA is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
+- NOVA comes with [MIT](https://github.com/bosilu09/NOVA-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 </details> 
     
@@ -518,7 +517,7 @@ npm start
 
 # 🧣 Contributors:
 
-- Check [Atlas Contributors](https://github.com/FantoX001/Atlas-MD/graphs/contributors) list.
+- Check [NOVA Contributors](https://github.com/bosilu09/NOVA-MD/graphs/contributors) list.
 - Feel free to contribute in this project. I will merge your respected contribution after reviewing it.
     
 <br><br>
@@ -544,10 +543,10 @@ npm start
 ---
 <br>
 
-<h2 align="center">🔰 Meet Team Atlas 🔰
+<h2 align="center">🔰 Meet Team NOVA 🔰
 </h2>
 
-[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+[![Fantox](https://github.com/bosilu09.png)](https://github.com/bosilu09)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
 ----|----|----|----|----|----
-[FantoX](https://github.com/FantoX001)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
+[FantoX](https://github.com/bosilu09)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
 Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer, Modules | Designing, API Maintainer | Ideas, Testing, Re-Checking | Ideas, Testing, Re-Checking
