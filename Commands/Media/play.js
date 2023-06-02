@@ -22,7 +22,7 @@ module.exports = {
       const song = songInfo.videos[0];
       let videoUrl = song.url;
       let videoId = videoUrl.split("v=")[1];
-Miku.sendMessage(m.from,{text:`_${song.duration}_`})
+Miku.sendMessage(m.from,{text:`_${song.duration[0]}_`})
       await Miku.sendMessage(
         m.from,
         {
