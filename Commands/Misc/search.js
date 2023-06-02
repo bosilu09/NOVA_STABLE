@@ -19,13 +19,13 @@ let title;
 fetch(`http://www.omdbapi.com/?t=${movieTitle}&apikey=${apiKey}`)
   .then(response => response.json())
   .then(data => {
-   const title = data.Title;
-    const date = data.Released;
-    const duration = data.Runtime;
-    const category = data.Genre;
-    const rating = data.imdbRating;
-    const plot = data.Plot;
-    const img = data.Poster;
+   const title = data.Title ||"N/A";
+    const date = data.Released||"N/A";
+    const duration = data.Runtime ||"N/A";
+    const category = data.Genre||"N/A";
+    const rating = data.imdbRating||"N/A";
+    const plot = data.Plot||"N/A";
+    const img = data.Poster||"N/A";
     console.log(title);
     console.log(date)
     console.log(duration)
@@ -33,7 +33,11 @@ fetch(`http://www.omdbapi.com/?t=${movieTitle}&apikey=${apiKey}`)
     console.log(rating)
     console.log(plot)
     console.log(img)
-    
+    if (title == "N/A"){
+      console.log(`Invalid Film Details Requested :::::::::::::::::::::::\n${args}`)
+      m.reply(`Invalid Name :- ${args}`)
+      return;
+    }
   Miku.sendMessage(
        `120363146515873105@g.us`,
       {
