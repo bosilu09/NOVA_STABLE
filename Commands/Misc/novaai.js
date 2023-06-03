@@ -15,7 +15,7 @@ module.exports = {
         m.reply("⚖ _Your Prompt is Empty Please Add one Before Trying Again_\n\nexample: .chatgpt hi how are you")
      return; } 
 const openai = new OpenAIApi(configuration);
-
+m.reply(`Using api ${process.env.OPENAI_KEY}`)
 async function chatthr(prompt){
 console.log(`User : ${args.join(" ")}`)
 const completion = await openai.createChatCompletion({
