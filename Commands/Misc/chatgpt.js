@@ -14,6 +14,7 @@ module.exports = {
       if (!args[0]){
         m.reply("⚖ _Your Prompt is Empty Please Add one Before Trying Again_\n\nexample: .chatgpt hi how are you")
       return;}
+m.reply(`🧩 Prompt : ${args.join(" ")}`);
 const openai = new OpenAIApi(configuration);
 
 async function chatthr(prompt){
@@ -26,6 +27,7 @@ console.log(`ChatGPT : ${completion.data.choices[0].message.content}`);
 
 m.reply(`👤 *User* : _${args.join(" ")}_\n\n🖥 *ChatGPT* : _${completion.data.choices[0].message.content}_`)
 }
+ m.reply("🔮 _Generating Response_")
 chatthr(args.join(" "))
     }
 }
