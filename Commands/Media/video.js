@@ -21,6 +21,27 @@ async function sendDownload(){
     }
 
 async function downloadFirstResult(query) {
+  const songSerachTerm = args.join(" ");
+  const songInfo = await yts(songSerachTerm);
+  const song = songInfo.videos[0];
+  let videoUrl = song.url;
+  let videoId = videoUrl.split("v=")[1];
+
+  const duration = `${song.duration}`;
+  const match = duration.match(/\d+/);
+  
+ 
+const extractedDuration = match[0];
+const numberduration =  Number(extractedDuration);
+console.log(numberduration);
+
+
+if ( numberduration > 1800 ){
+  console.log("Song Downloading Failed : Too large Duration")
+ return;
+}
+ 
+
   const searchResults = await yts.search(query);
   const firstResult = searchResults.videos[0];
   console.log(`Downloading: ${firstResult.title}`);
@@ -72,7 +93,29 @@ _*🥷 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...*_\n\n`,
 
 await prefunctions();
 await downloadFirstResult(`${args.join(" ")}`);
+
+/*Do NOT EDIT BELOW PART AT ANY REASON AT ALL*/
+const songSerachTerm = args.join(" ");
+const songInfo = await yts(songSerachTerm);
+const song = songInfo.videos[0];
+let videoUrl = song.url;
+let videoId = videoUrl.split("v=")[1];
+
+const duration = `${song.duration}`;
+const match = duration.match(/\d+/);
+
+
+const extractedDuration = match[0];
+const numberduration =  Number(extractedDuration);
+console.log(numberduration);
+
+if ( numberduration > 1800 ){
+console.log("Song Downloading Failed : Too large Duration")
+return;
+} else 
+
 setTimeout(() => {
+
  sendDownload()
 }, 4000);
     }
