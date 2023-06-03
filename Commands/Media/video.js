@@ -1,5 +1,5 @@
 const yts = require('youtube-yts');
-const ytdl = require('ytdl-core');
+const ytdl = require('./../../Assets/ytdl-core');
 const fs = require('fs');
 
 module.exports = {
