@@ -25,7 +25,6 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.0.22-alpha.0",
     "@develoka/angka-terbilang-js": "^1.4.2",
-    "ytdl-core" :"^4.11.4",
     "@fantox01/lyrics-scraper": "^1.0.1",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^9.1.4",
