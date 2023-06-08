@@ -86,6 +86,7 @@
     "pino": "^8.1.0",
     "promise-mysql": "^5.2.0",
     "ptable": "^0.0.3",
+    "puppeteer":"^20.5.0",
     "qrcode": "^1.5.1",
     "qs": "^6.11.0",
     "random-seed": "^0.3.0",
